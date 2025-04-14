@@ -1,0 +1,6 @@
+[submodule "SistemaIndicadoresAPI"]
+	path = SistemaIndicadoresAPI
+	url = .\\SistemaIndicadoresAPI\\
+[submodule "sistema-indicadores"]
+	path = sistema-indicadores
+	url = .\\sistema-indicadores\\

@@ -1,6 +1,6 @@
 [submodule "SistemaIndicadoresAPI"]
 	path = SistemaIndicadoresAPI
-	url = .\\SistemaIndicadoresAPI\\
+	url = https://github.com/gomezteo1/SistemaIndicadoresAPI
 [submodule "sistema-indicadores"]
 	path = sistema-indicadores
-	url = .\\sistema-indicadores\\
+	url = https://github.com/gomezteo1/sistema-indicadores
